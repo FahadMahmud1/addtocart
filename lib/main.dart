@@ -43,7 +43,7 @@ class _HomeScreen extends State<Home> {
                   title: Center(
                     child: Text("Congratulations!"),
                   ),
-                  content: Text("You have added 5 $itemName ItemName to your bag!"),
+                  content: Text("You have added 5 $itemName to your bag!"),
                   actions: [
                     Center(
                       child: ElevatedButton(
